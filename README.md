@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Michel Oliveira. I am a Software Engineering student at the Federal University of Ceará (UFC), Brazil.</p>
+<p align="left">My name is Michel Oliveira. I am a Computer Science student at the Federal University of Ceará (UFC), Brazil.</p>
 
 ###
 
